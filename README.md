@@ -36,4 +36,4 @@ The following environment variables are required when deploying the application 
 - `BACKEND`: The URI to this application (<http://localhost> if deployed locally, a DNS/IP otherwise).
 - `DB_USER`: The database user. Must match the user in the SQL dump and `MYSQL_USER`.
 - `DB_PASS`: The user password. Must match `MYSQL_PASSWORD`.
-- `DB_NAME`: The database name. Must match `MYSQL_DATABASE` as well as the database name in the SQL dump.
+- `DB_NAME`: The database name. Must match `MYSQL_DATABASE` as well as the database name in the SQL dump.# Trigger Actions
